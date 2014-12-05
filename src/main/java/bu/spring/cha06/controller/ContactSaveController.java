@@ -10,7 +10,8 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class ContactSaveController {
-
+	public void test() {}
+	
 }
 
 
